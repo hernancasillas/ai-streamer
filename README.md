@@ -1,3 +1,6 @@
+# Sneak Peek 👀
+![](demo.gif)
+
 # AI Streamer - React Native Chat Challenge
 
 A high-performance React Native chat application featuring real-time AI response streaming with advanced scroll management and markdown rendering.
