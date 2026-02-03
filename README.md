@@ -16,7 +16,7 @@ A high-performance React Native chat application featuring real-time AI response
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/hernancasillas/ai-streamer
 cd ai-streamer
 
 # Install dependencies
